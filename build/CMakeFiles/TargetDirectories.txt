@@ -1,3 +1,0 @@
-/mnt/c/Users/farca/Desktop/PAOO_THREADS/build/CMakeFiles/main.exe.dir
-/mnt/c/Users/farca/Desktop/PAOO_THREADS/build/CMakeFiles/edit_cache.dir
-/mnt/c/Users/farca/Desktop/PAOO_THREADS/build/CMakeFiles/rebuild_cache.dir
